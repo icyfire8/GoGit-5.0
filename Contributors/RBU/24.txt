@@ -1,0 +1,3 @@
+Name: Sarthaki
+Details: I am a passionate learner who just successfully navigated my first GitHub fork and pull request!
+Favorite Dinosaur: Stegosaurus (Remember: Pterodactyls are not dinosaurs!)
